@@ -2,6 +2,7 @@ appspecificos
 =============
 
 This project aims in creating an application specific OS
+
 The base minimal OS used in this project is Tinycorelinux
 The repo has 3 folders :
 	src
