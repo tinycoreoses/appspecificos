@@ -1,0 +1,5 @@
+#!/bin/busybox ash
+while [ 1 -eq 1 ]
+do
+sudo abiword -g 1000 1000
+done
